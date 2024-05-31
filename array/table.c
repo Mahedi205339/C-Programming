@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void storeTable(int arr[][], int n, int m,int number);
+void storeTable(int arr[][10], int n, int m,int number);
 
 int main()
 {
